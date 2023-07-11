@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome!🧋🫰🏻
 
 **I love working with**
 
@@ -21,7 +21,7 @@
 
 ### 🤔 I’m looking to collaborate with
 
-- Web and Mobile projects
+- 🖥️ Web and 📱Mobile projects
 
 ### 📫 How to reach me
 
