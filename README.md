@@ -37,5 +37,5 @@
 ### ⚡ Fun fact
 I'm a boba🧋lover.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acabrerafondeur&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acabrerafondeur&layout=compact&theme=vision-friendly-dark)](https://github.com/acabrerafondeur/github-readme-stats)
 
